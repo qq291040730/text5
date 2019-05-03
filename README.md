@@ -1,5 +1,6 @@
 ﻿# Intent
-
+https://github.com/qq291040730/text5/blob/master/images/(N%60HEN0%7DXC%25(CC4N0BTZI%25Y.png
+https://github.com/qq291040730/text5/blob/master/images/X(%7DR%60%245SNGKVNP8U5%5BEOR_N.png
 代码
  protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
